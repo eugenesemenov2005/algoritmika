@@ -16,7 +16,7 @@ header a {
 
 header img {
     width: 200px;
-    height: 60px;
+    height: 600px;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 h2 {
     background-color: #2adede;
     color: blueviolet;
-    font-size: 30px;
+    font-size: 90px;
 }
 
 main p {
